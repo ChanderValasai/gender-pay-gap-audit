@@ -97,6 +97,7 @@ claim. "Caused by unfair treatment" is a much larger claim this analysis cannot 
   commit history rather than silently absorbed
 
 ## Repository Structure
+```
 pakistan-tech-pay-gap/
 ├── README.md                          # this file
 ├── data/
@@ -113,6 +114,7 @@ pakistan-tech-pay-gap/
 │   ├── pay_equity_report.pdf          # exported version, downloadable
 │   └── executive_summary.md           # 1-page non-technical summary
 └── figures/                           # exported charts, referenced in README + report
+```
 
 ## Reproducing This Analysis
 
