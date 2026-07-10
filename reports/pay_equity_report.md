@@ -72,7 +72,7 @@ observed compensation relative to its true distribution.
 Both distributions are heavily right-skewed, confirmed via histogram, boxplot, and Q-Q plot 
 inspection. Variances are highly unequal between groups, ruling out a standard Student's t-test.
 
-![Distribution Shape](../figures/02_distibution_shape.png)
+![Distribution Shape](../figures/02_distribution_shape.png)
 
 ### 3.2 Hypothesis Testing
 
