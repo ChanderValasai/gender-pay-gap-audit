@@ -127,5 +127,5 @@ Python · pandas · NumPy · SciPy · statsmodels · Seaborn · Matplotlib
 
 ## Author
 
-Chander — [https://www.github.com/ChanderValasai](#) · [https://www.linkedin.com/in/mrchandervalasai](#)
+Chander — [GitHub](https://www.github.com/ChanderValasai) · [LinkedIn](https://www.linkedin.com/in/mrchandervalasai)
 *Built as a portfolio project while completing DataCamp's Data Analyst with Python track.*
